@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## {.tabset}
 
+Last updated `r Sys.Date()`
+
 ### R packages
 
 Most packages include README files or additional inormation, click the repository links to access.
