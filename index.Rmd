@@ -19,43 +19,51 @@ Most packages include README files or additional inormation, click the repositor
 
 * algaeMetrics *
      * Repository: https://github.com/SCCWRP/algaeMetrics
+     * Network path: L:/algaeMetrics
      * Resources: [paper](http://ftp.sccwrp.org/pub/download/DOCUMENTS/JournalArticles/776_StreamIndicesBioticIntegrity_Abstract.pdf)
      * Contact: [Susanna Theroux](susannat@sccwrp.org)
 
 * ASCI ***
      * Repository: https://github.com/SCCWRP/ASCI
      * Website: https://sccwrp.github.io/ASCI/
+     * Network path: L:/ASCI_repos/ASCI
      * Resources: [SOP, draft](https://github.com/SCCWRP/ASCIsop)
      * Contact: [Susanna Theroux](mailto:susannat@sccwrp.org)
 
 * BMIMetrics **
      * Repository: https://github.com/SCCWRP/BMIMetrics
+     * Network path: L:/CSCI_MB/Repos/BMIMetrics
      * Resources: [SOP](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/docs/CSCI_Instructions_08_01_18.pdf), [paper](http://ftp.sccwrp.org/pub/download/DOCUMENTS/JournalArticles/889_MazorBioasssmentComplexHabitats_CSCI.pdf)
      * Contact: [Raphael Mazor](mailto:raphaelm@sccwrp.orb)
      
 * CSCI ***
      * Repository: https://github.com/SCCWRP/CSCI
      * Website: https://sccwrp.github.io/CSCI/
+     * Network path: L:/CSCI_MB/Repos/CSCI
      * Resources: [SOP](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/docs/CSCI_Instructions_08_01_18.pdf), [paper](http://ftp.sccwrp.org/pub/download/DOCUMENTS/JournalArticles/889_MazorBioasssmentComplexHabitats_CSCI.pdf)
      * Contact: [Raphael Mazor](mailto:raphaelm@sccwrp.orb)
           
 * PHAB (IPI) ***
      * Repository: https://github.com/SCCWRP/PHAB
      * Website: https://sccwrp.github.io/PHAB/
+     * Network path: L:/PHAB_MB/Packages/PHAB
      * Resources: [SOP](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/docs/phab_sop.pdf), [Tech memo](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/docs/physical_habitat_index_technical_memo.pdf) 
      * Contact: [Raphael Mazor](mailto:raphaelm@sccwrp.org)
      
 * PHABMetrics  ***
      * Repository: https://github.com/SCCWRP/PHABMetrics
+     * Network path: L:/PHAB_MB/Packages/PHABMetrics
      * Contact: [Raphael Mazor](mailto:raphaelm@sccwrp.org), [Robert Butler](robertb@sccwrp.org)
      
 * SQI **
      * Repository: https://github.com/SCCWRP/SQI
+     * Network path: L:/SMC SQI_RM/SQI
      * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1080_StreamQualityIndex.pdf), [paper](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1080_StreamQualityIndex.pdf)
      * Contact: [Ken Schiff](mailto:kens@sccwrp.org), [Raphael Mazor](mailto:raphaelm@sccwrp.org)
      
 * SQObioaccumulation **
      * Repository: https://github.com/SCCWRP/SQObioaccumulation
+     * Network path: Z:/MarcusBeck/SQObioaccumulation
      * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1000_SQOHumanHealthFramework.pdf)
      * Contact: [Steve Bay](mailto:steveb@sccwrp.org), [Ashley Parks](mailto:ashleyp@sccwrp.org)
      
@@ -66,56 +74,73 @@ All Shiny applications hosted on [shinyapps.io](https://www.shinyapps.io/), with
 * algaeIBI *
      * Shiny: https://sccwrp.shinyapps.io/algaeIBI
      * Repository: https://github.com/SCCWRP/algaeIBI
+     * Network path: L:/algaeIBI
      * Contact: [Susanna Theroux](mailto:susannat@sccwrp.org)
 
 * ASCIfigs *
      * Shiny: https://sccwrp.shinyapps.io/ASCIfigs/
      * Repository: https://github.com/SCCWRP/ASCIfigs
+     * Network path: L:/ASCI_repos/ASCIfigs
      * Resources: [SOP, draft](https://github.com/SCCWRP/ASCIsop)
      * Contact: [Susanna Theroux](mailto:susannat@sccwrp.org)
 
 * bmp_eval **
      * Shiny: https://sccwrp.shinyapps.io/bmp_eval
      * Repository: https://github.com/SCCWRP/bmp_eval
+     * Network path: Z:/MarcusBeck/bmp_eval
      * Contact: [Ken Schiff](mailto:kens@sccwrp.org)
 
 * BioStimApp *
      * Shiny: https://sccwrp.shinyapps.io/BioStimApp
-     * Repository: https://github.com/SCCWRP/BioStimApp     
+     * Repository: https://github.com/SCCWRP/BioStimApp    
+     * Network path: L:/Biointegrity Biostim policy_RM/BioStimApp
      * Contact: [Raphael Mazor](mailto:raphaelm@sccwrp.org)
      
 * california_dna_map *
      * Shiny: https://sccwrp.shinyapps.io/california_dna_map
      * Repository: https://github.com/SCCWRP/california_dna_map
+     * Network path: Z:/MarcusBeck/california_dna_map
      * Contact: [Susanna Theroux](mailto:susannat@sccwrp.org)
+
+* jssh_web **
+     * Shiny: https://sccwrp.shinyapps.io/jssh_web/
+     * Repository: https://github.com/SCCWRP/jssh_web
+     * Network path: L:/Santa Cruz_fish trends_MB/Repos/jssh_web
+     * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1082_SantaCruzSteelheads.pdf)
+     * Contact: [Eric Stein](mailto:erics@sccwrp.org)
      
 * flowecology **
      * Shiny: https://sccwrp.shinyapps.io/flowecology/
      * Repository: https://github.com/SCCWRP/flowecology
+     * Network path: L:/Flow ecology and climate change_ES/Marcus/flowecology
      * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1084_ClimateChangeVulnerability.pdf)
      * Contact: [Jenny Taylor](mailto:jennyt@sccrwp.org), [Eric Stein](mailto:erics@sccwrp.org)
 
 * flowmetrics *
      * Shiny: https://sccwrp.shinyapps.io/flowmetrics/
      * Repository: https://github.com/SCCWRP/flowmetrics
+     * Network path: L:/Flow ecology and climate change_ES/Marcus/flowmetrics
      * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1084_ClimateChangeVulnerability.pdf)
      * Contact: [Jenny Taylor](mailto:jennyt@sccrwp.org), [Eric Stein](mailto:erics@sccwrp.org)
 
 * SCAPE *** 
      * Shiny: https://sccwrp.shinyapps.io/SCAPE
      * Repository: https://github.com/SCCWRP/SCAPE
+     * Network path: L:/Channels in developed landscapes_RM/Marcus/SCAPE
      * Resources: [paper](http://ftp.sccwrp.org/pub/download/DOCUMENTS/JournalArticles/1090_StreamBiologicalIntegrity.pdf)
      * Contact: [Raphael Mazor](mailto:raphaelm@sccwrp.org)
      
 * SQI_Shiny ***
      * Shiny: https://sccwrp.shinyapps.io/SQI_Shiny
      * Repository: https://github.com/SCCWRP/SQI_Shiny
+     * Network path: L:/SMC SQI_RM/SQI_Shiny
      * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1080_StreamQualityIndex.pdf), [paper](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1080_StreamQualityIndex.pdf)
      * Contact: [Ken Schiff](mailto:kens@sccwrp.org), [Raphael Mazor](mailto:raphaelm@sccwrp.org)
      
 * SQO_web **
      * Shiny: https://sccwrp.shinyapps.io/SQO_web/
      * Repository: https://github.com/SCCWRP/SQO_web
+     * Network path: Z:/MarcusBeck/SQO_web
      * Resources: [report](http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/1000_SQOHumanHealthFramework.pdf)
      * Contact: [Steve Bay](mailto:steveb@sccwrp.org), [Ashley Parks](ashleyp@sccwrp.org)
      
